@@ -1,2 +1,2 @@
-# Bioinformatics_Portfolio
-My final assessment portfolio for BIOLM0051.
+# Mystery_Meat_Pipeline
+Analysis pipeline for the identification of mystery meat samples.
